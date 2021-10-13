@@ -10,3 +10,6 @@ git으로 시작하는 일지
 
 ### 21.10.09
 [세션,쿠키 로컬스토리지 정리](https://github.com/leubenia/My-Lebania-seting/blob/master/js/%EC%BF%A0%ED%82%A4%2C%20%EC%84%B8%EC%85%98%2C%20%EB%A1%9C%EC%BB%AC%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80/%EB%A1%9C%EC%BB%AC%2C%EC%84%B8%EC%85%98%2C%EB%A1%9C%EC%BB%AC%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80.md)
+
+### 2021.10.14
+[SQL문 명령어 정리](https://github.com/leubenia/My-Lebania-seting/tree/master/SQL)
