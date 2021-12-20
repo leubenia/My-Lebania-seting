@@ -12,4 +12,4 @@ git으로 시작하는 일지
 
 [SQL문 명령어 정리](https://github.com/leubenia/My-Lebania-seting/tree/master/SQL)
 
-[알고리즘](https://github.com/leubenia/My-Lebania-seting/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+[알고리즘](https://github.com/leubenia/My-Lebania-seting/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)Ts추가
