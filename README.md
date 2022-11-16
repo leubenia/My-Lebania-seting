@@ -1,4 +1,5 @@
 # My-Lebania-seting
+
 개발일지
 git으로 시작하는 일지
 
@@ -14,5 +15,4 @@ git으로 시작하는 일지
 
 [알고리즘](https://github.com/leubenia/My-Lebania-seting/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)Ts추가
 
-아니 이거 뭐임 ..?
-
+테스트용 커밋 확인중
